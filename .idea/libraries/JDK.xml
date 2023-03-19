@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="JDK">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../JDK" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/ArcTest" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/BarChart" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/Blink" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/CardTest" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/Clock" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/DitherTest" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/DrawTest" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/Fractal" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/GraphicsTest" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/MoleculeViewer" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/NervousText" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/SimpleGraph" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/SortDemo" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/SpreadSheet" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/applets/WireFrame" />
+      <root url="file://$PROJECT_DIR$/../../JDK/demo/nio/zipfs" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/annotations/DependencyChecker/PluginChecker/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/annotations/DependencyChecker/Plugins/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/annotations/Validator/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/forkjoin/mergesort" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/jmx/jmx-scandir/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/jmx/jmx-scandir/test" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/lambda/BulkDataOperations/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/lambda/DefaultMethods" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/nio/chatserver" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/nio/file" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/nio/multicast" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/nio/server" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/scripting/scriptpad/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK/sample/try-with-resources/src" />
+      <root url="file://$PROJECT_DIR$/../../JDK" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../JDK" recursive="false" type="SOURCES" />
+  </library>
+</component>
